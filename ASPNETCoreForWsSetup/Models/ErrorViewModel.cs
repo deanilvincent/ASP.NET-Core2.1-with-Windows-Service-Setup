@@ -1,5 +1,3 @@
-using System;
-
 namespace ASPNETCoreForWsSetup.Models
 {
     public class ErrorViewModel
